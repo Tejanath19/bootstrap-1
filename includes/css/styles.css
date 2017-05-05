@@ -1,0 +1,102 @@
+body
+{
+   background:  #E3D194;
+}
+#nav
+{
+    text-decoration-color: white;
+
+}
+
+footer
+{
+   
+   background: rgb(0,0,0);
+   height: 80px;
+   
+}
+.f1
+{
+
+   color: white;
+   margin-top: 30px;
+}
+
+
+
+
+#bigcallout
+{
+   margin-top: 20px;
+   padding-right: 20px; 
+  
+
+}
+.image1
+{
+   width: 350px;
+   height: 150px;
+}
+
+#call
+{
+  
+
+}
+
+#out
+{
+   
+  
+}
+
+#big
+{
+  
+
+}
+#mycarousel .item
+{
+height: 400px;
+width: 100%;
+
+}
+#mycarousel
+{
+   width: 1123px;
+   margin-right:18px;
+}
+#slide1
+
+{
+   background: url('../../images/hotel3.jpg') no-repeat top center;
+   background-size: 100% 100%;
+}
+#slide2
+
+{
+   background: url('../../images/hotel4.jpg') no-repeat top center;
+   background-size: 100% 100%;
+}
+#slide3
+
+{
+   background: url('../../images/hotel6.jpg') no-repeat top center;
+   background-size: 100% 100%;
+}
+
+
+
+@media (max-width: 480px) {
+	
+}
+
+
+@media (max-width: 768px) {
+	
+}
+
+
+@media (min-width: 1200px) {
+	
+}
